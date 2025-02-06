@@ -1,5 +1,5 @@
 ![logo](https://github.com/ShubhamKumarRaman/ShubhamKumarRaman/blob/main/Profile%20LinkedIn%20Banner.jpg)
-<h1 align="center">Hi 👋, I'm Shubham Kumar</h1>
+<h1 align="center">Hi 👋, I'm Anurag Ranjan</h1>
 <h3 align="center">🚀 Passionate Developer | Java & Android Enthusiast | Web & Data Science Explorer**</h3>
 <img align="right" alt="coding" width="400" src = "https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamkumarraman&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamkumarraman" /> </p>
@@ -8,11 +8,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ShubhamKumarRaman](https://github.com/ShubhamKumarRaman?tab=repositories)
 
-- 💬 Ask me about *Android Development, Web Development*
+- 💬 Ask me about Web Development*
 
-- 📫 How to reach me *https://shubham-portfolio52.netlify.app/*
+/*- 📫 How to reach me *https://shubham-portfolio52.netlify.app/* */
 
-- 📄 Know about my experiences [www.linkedin.com/in/shubham-kumar-040b1a27a](https://www.linkedin.com/in/shubham-kumar-040b1a27a)
+- 📄 Know about my experiences https://www.linkedin.com/in/anurag-ranjan-68034b330/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
