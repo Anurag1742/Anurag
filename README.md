@@ -10,7 +10,7 @@
 
 - 💬 Ask me about Web Development*
 
-/*- 📫 How to reach me *https://shubham-portfolio52.netlify.app/* */
+
 
 - 📄 Know about my experiences https://www.linkedin.com/in/anurag-ranjan-68034b330/
 
