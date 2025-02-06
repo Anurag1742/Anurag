@@ -1,4 +1,4 @@
-# 💫 I'm Anura Ranjan
+# 💫 I'm Anura Ranjan.
 🔭 I'm currently working on Web Development<br>📖 I'm currently learning JAVA and JAVA Script
 
 
